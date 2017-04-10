@@ -1,3 +1,3 @@
 # hello-world
 test
-So this is how "commit" changes in git hub.
+So this is how you can "commit" changes in git hub.
